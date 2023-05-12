@@ -18,4 +18,4 @@ def PrimeChecking(num):
 
 
 # To print the result, whether a given number is prime or not
-PrimeChecking(11)
+PrimeChecking(12)
